@@ -10,6 +10,7 @@ including :
 1.cross entropy for muti class
 2.dice loss
 3.Lovász-Softmax
+4.focal loss
 
 
 https://blog.csdn.net/qq_36387683/article/details/82385256
