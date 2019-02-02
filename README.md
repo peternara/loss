@@ -14,4 +14,6 @@ including :
 
 https://blog.csdn.net/qq_36387683/article/details/82385256
 
+what in pytorch file is intact LovaszSoftmax
+
 
